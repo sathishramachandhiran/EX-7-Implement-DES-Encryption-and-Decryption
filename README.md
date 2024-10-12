@@ -1,4 +1,4 @@
-# EX-7 : Implement DES Encryption and Decryption
+# EX-7 : Implement Data Encryption Standard (DES) Algorithm
 
 ## AIM:
   To write a program to implement Data Encryption Standard (DES).
