@@ -95,8 +95,7 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/2e30ad45-6233-4a67-ba63-99473b93d109)
-
+![image](des.png)
 
 ## RESULT:
   Thus the data encryption standard algorithm had been implemented successfully.
